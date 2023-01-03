@@ -715,4 +715,4 @@ server {
 ```
 
 
-[![IP Geolocation Sponsor IPinfo](share/static/ipinfo_sponsor.png](https://ipinfo.io/)
+[![IP Geolocation Sponsor IPinfo](/share/static/ipinfo_sponsor.png)](https://ipinfo.io/)
